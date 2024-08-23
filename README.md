@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,js,git,github,kali,npm,obsidian,express,html,linux,mysql,nextjs,nodejs,postman,visualstudio,vscode,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,git,github,kali,npm,obsidian,express,html,linux,mysql,nextjs,nodejs,postman,visualstudio,vscode,bash&perline=9" />
   </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burhanmorningstar&show_icons=true&locale=en&layout=compact" alt="burhanmorningstar" /></p>
