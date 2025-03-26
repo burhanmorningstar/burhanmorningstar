@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Javascript, NodeJS, React Native and algorithms**
+- 💬 Ask me about **Javascript, NodeJS, Python, React Native and algorithms**
 
 - 📫 How to reach me **burhanismaildemir@gmail.com**
 
