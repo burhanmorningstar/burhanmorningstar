@@ -2,11 +2,11 @@
 	<img src = "https://komarev.com/ghpvc/?username=burhanmorningstar&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <h1 align="center">Hi 👋, I'm BurhanMorningstar</h1>
-<h3 align="center">A Back-end developer</h3>
+<h3 align="center">A FullStack developer</h3>
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Javascript, NodeJS, Python, React Native and algorithms**
+- 💬 Ask me about **Javascript, Python, C#, SQL, React, React Native, NodeJS, React and algorithms**
 
 - 📫 How to reach me **burhanismaildemir@gmail.com**
 
